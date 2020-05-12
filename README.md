@@ -1,4 +1,4 @@
 # todo
 Orange Academy (ToDo)
 
-<img src="https://i.imgur.com/nmyiOu6.png" alt=img">
+![github-small] (https://i.imgur.com/nmyiOu6.png)
