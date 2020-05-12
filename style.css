@@ -1,0 +1,22 @@
+.pt-20 {
+  padding-top: 5%;
+}
+
+.bg-color {
+  background-color: rgb(241, 241, 241);
+  padding: 20px;
+}
+
+.active {
+  text-decoration: line-through;
+  color: #28A745;
+}
+
+.textElement {
+  cursor: pointer;
+}
+
+.title {
+  font-size: 30px;
+  font-weight: 700;
+}
